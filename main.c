@@ -7,10 +7,9 @@
 #include "dataTable.h"
 
 /*
- * authors
+ * author
  *
  * Yuval cohen
- * Ortal peleg
  *
  * ~~~~~Project description and workflow~~~~
  *
